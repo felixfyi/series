@@ -1,4 +1,15 @@
-series
+Series
 ======
 
-Inspired by https://github.com/MyKiwi/series
+## Current
+
+    s05e15 Breaking Bad
+
+## To Watch
+
+
+
+## Watched
+
+
+    
