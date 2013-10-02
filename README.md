@@ -7,7 +7,7 @@ Series
 
 ## To Watch
 
-    [Saul Goodman series](http://screenrant.com/breaking-bad-spinoff-saul-goodman/)
+    Saul Goodman series (http://screenrant.com/breaking-bad-spinoff-saul-goodman/)
 
 ## Watched
 
