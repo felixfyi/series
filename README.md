@@ -4,6 +4,7 @@ Series
 ## Current
 
     s03e16 The Walking Dead
+    s01e1 Dexter
 
 ## To Watch
 
