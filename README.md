@@ -10,6 +10,8 @@ Series
 
     Saul Goodman series (http://screenrant.com/breaking-bad-spinoff-saul-goodman/)
     Boardwalk Empire
+    The Sopranos
+    Crossing Lines
 
 ## Watched
 
