@@ -3,7 +3,7 @@ Series
 
 ## Current
 
-    s04e1 The Walking Dead
+    s04e4 The Walking Dead
     s01e1 Dexter
 
 ## To Watch
