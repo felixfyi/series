@@ -5,10 +5,10 @@ Series
 
     s04e4 The Walking Dead
     s01e1 Dexter
+    s01e4 Better Call Saul
 
 ## To Watch
 
-    Saul Goodman series (http://screenrant.com/breaking-bad-spinoff-saul-goodman/)
     Boardwalk Empire
     The Sopranos
     Crossing Lines
